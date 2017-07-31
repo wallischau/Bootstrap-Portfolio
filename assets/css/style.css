@@ -1,0 +1,33 @@
+/*style sheet for basic portfolio project: index, contact and portfolio html*/
+/*Author: Wallis Chau*/
+/*Date: 7/25/17*/
+/* This associates with bootstrap css*/
+
+.gap-right-bottom {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#self-pic {
+	height: 200px;
+}
+
+.imgwrap {
+	width: 33%;
+	float: left;
+}
+
+.item {
+	position: relative;
+	display: inline-block;
+}
+.textonimage {
+	background: #4aaaa5;
+	color: #ffffff;
+	width: 100%;
+	padding: 5px 5px;
+	font-size: 10pt;
+	text-align: center;
+	position: absolute;	
+	bottom: 5px;
+}
